@@ -8,7 +8,7 @@
   * Crystal Game
   * HTML
   * JavaScript
-  *CSS
+  * CSS
 
 ### Knowledge
   * Learn .Onkey
